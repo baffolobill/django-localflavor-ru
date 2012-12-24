@@ -1,0 +1,394 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jaffa McNeill <jaffa.mcneill@gmail.com>, 2012.
+#   <kristjan.schmidt@googlemail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Jaffa McNeill <jaffa.mcneill@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: forms.py:37
+msgid "Enter a postal code in the format XXXXXX."
+msgstr "Enigu poŝtan kodon laŭformate XXXXXX."
+
+#: forms.py:50
+msgid "Enter a passport number in the format XXXX XXXXXX."
+msgstr "Enigu pasportan nombron laŭformate XXXX XXXXXX."
+
+#: forms.py:63
+msgid "Enter a passport number in the format XX XXXXXXX."
+msgstr "Enigu pasportan nombron laŭformate XX XXXXXXX."
+
+#: ru_regions.py:10
+msgid "Central Federal County"
+msgstr "Centra Federacia Distrikto"
+
+#: ru_regions.py:11
+msgid "South Federal County"
+msgstr "Suda Federacia Distrikto"
+
+#: ru_regions.py:12
+msgid "North-West Federal County"
+msgstr "Norda-Okcidenta  Federacia Distrikto"
+
+#: ru_regions.py:13
+msgid "Far-East Federal County"
+msgstr "Fora-Orienta  Federacia Distrikto"
+
+#: ru_regions.py:14
+msgid "Siberian Federal County"
+msgstr "Siberia Federacia Distrikto"
+
+#: ru_regions.py:15
+msgid "Ural Federal County"
+msgstr "Urals Federacia Distrikto"
+
+#: ru_regions.py:16
+msgid "Privolzhsky Federal County"
+msgstr "Privolzskio Federacia Distrikto"
+
+#: ru_regions.py:17
+msgid "North-Caucasian Federal County"
+msgstr "Norda Kaŭkasina Federacia Distrikto"
+
+#: ru_regions.py:21
+msgid "Moskva"
+msgstr "Moskvo"
+
+#: ru_regions.py:22
+msgid "Saint-Peterburg"
+msgstr "Sankt-Peterburgo"
+
+#: ru_regions.py:23
+msgid "Moskovskaya oblast'"
+msgstr "Moskva provinco"
+
+#: ru_regions.py:24
+msgid "Adygeya, Respublika"
+msgstr "Respubliko de Adigeo"
+
+#: ru_regions.py:25
+msgid "Bashkortostan, Respublika"
+msgstr "Respubliko de Baŝkirio"
+
+#: ru_regions.py:26
+msgid "Buryatia, Respublika"
+msgstr "Respubliko de Burjatio"
+
+#: ru_regions.py:27
+msgid "Altay, Respublika"
+msgstr "Respubliko de Altaio"
+
+#: ru_regions.py:28
+msgid "Dagestan, Respublika"
+msgstr "Respubliko de Dagestano"
+
+#: ru_regions.py:29
+msgid "Ingushskaya Respublika"
+msgstr "Respubliko de Inguŝskajo"
+
+#: ru_regions.py:30
+msgid "Kabardino-Balkarskaya Respublika"
+msgstr "Respubliko de Kabardio-Balkario"
+
+#: ru_regions.py:31
+msgid "Kalmykia, Respublika"
+msgstr "Respubliko de Kalmukio"
+
+#: ru_regions.py:32
+msgid "Karachaevo-Cherkesskaya Respublika"
+msgstr "Respubliko de Karaĉajio-Ĉerkesio"
+
+#: ru_regions.py:33
+msgid "Karelia, Respublika"
+msgstr "Respubliko de Karelio"
+
+#: ru_regions.py:34
+msgid "Komi, Respublika"
+msgstr "Respubliko de Komio"
+
+#: ru_regions.py:35
+msgid "Mariy Ehl, Respublika"
+msgstr "Respubliko de Mari Elo"
+
+#: ru_regions.py:36
+msgid "Mordovia, Respublika"
+msgstr "Respubliko de Mordvio"
+
+#: ru_regions.py:37
+msgid "Sakha, Respublika (Yakutiya)"
+msgstr "Respubliko de Saka (Jakutijo)"
+
+#: ru_regions.py:38
+msgid "Severnaya Osetia, Respublika (Alania)"
+msgstr "Respubliko de Severnaja Osetio (Alanio)"
+
+#: ru_regions.py:39
+msgid "Tatarstan, Respublika"
+msgstr "Respubliko de Tatarstano"
+
+#: ru_regions.py:40
+msgid "Tyva, Respublika (Tuva)"
+msgstr "Respubliko de Tijvao (Tuvao)"
+
+#: ru_regions.py:41
+msgid "Udmurtskaya Respublika"
+msgstr "Respubliko de Udmurtskajao"
+
+#: ru_regions.py:42
+msgid "Khakassiya, Respublika"
+msgstr "Respubliko de Kakasijao"
+
+#: ru_regions.py:43
+msgid "Chechenskaya Respublika"
+msgstr "Ĉeĉenskaja Respubliko"
+
+#: ru_regions.py:44
+msgid "Chuvashskaya Respublika"
+msgstr "Ĉuvaŝskaya Respubliko"
+
+#: ru_regions.py:45
+msgid "Altayskiy Kray"
+msgstr "Altajskia Federacio"
+
+#: ru_regions.py:46
+msgid "Zabaykalskiy Kray"
+msgstr "Zabajkalski Federacio"
+
+#: ru_regions.py:47
+msgid "Kamchatskiy Kray"
+msgstr "Kamĉatski Federacio"
+
+#: ru_regions.py:48
+msgid "Krasnodarskiy Kray"
+msgstr "Krasnodarski Federacio"
+
+#: ru_regions.py:49
+msgid "Krasnoyarskiy Kray"
+msgstr "Krasnojarski Federacio"
+
+#: ru_regions.py:50
+msgid "Permskiy Kray"
+msgstr "Permski Federacio"
+
+#: ru_regions.py:51
+msgid "Primorskiy Kray"
+msgstr "Primorski Federacio"
+
+#: ru_regions.py:52
+msgid "Stavropol'siyy Kray"
+msgstr "Stavropolsij Federacio"
+
+#: ru_regions.py:53
+msgid "Khabarovskiy Kray"
+msgstr "Kabarovski Federacio"
+
+#: ru_regions.py:54
+msgid "Amurskaya oblast'"
+msgstr "Amurskaja Provinco"
+
+#: ru_regions.py:55
+msgid "Arkhangel'skaya oblast'"
+msgstr "Arkangelskaja Provinco"
+
+#: ru_regions.py:56
+msgid "Astrakhanskaya oblast'"
+msgstr "Astrakanskaja Provinco"
+
+#: ru_regions.py:57
+msgid "Belgorodskaya oblast'"
+msgstr "Belgorodskaja Provinco"
+
+#: ru_regions.py:58
+msgid "Bryanskaya oblast'"
+msgstr "Brijanskaja Provinco"
+
+#: ru_regions.py:59
+msgid "Vladimirskaya oblast'"
+msgstr "Vladimirskaja Provinco"
+
+#: ru_regions.py:60
+msgid "Volgogradskaya oblast'"
+msgstr "Volgogrodskaja Provinco"
+
+#: ru_regions.py:61
+msgid "Vologodskaya oblast'"
+msgstr "Vologodskaja Provinco"
+
+#: ru_regions.py:62
+msgid "Voronezhskaya oblast'"
+msgstr "Voronezskaja Provinco"
+
+#: ru_regions.py:63
+msgid "Ivanovskaya oblast'"
+msgstr "Ivanovskaja Provinco"
+
+#: ru_regions.py:64
+msgid "Irkutskaya oblast'"
+msgstr "Irkutskaja Provinco"
+
+#: ru_regions.py:65
+msgid "Kaliningradskaya oblast'"
+msgstr "Kaliningradskaja Provinco"
+
+#: ru_regions.py:66
+msgid "Kaluzhskaya oblast'"
+msgstr "Kaluzskaja Provinco"
+
+#: ru_regions.py:67
+msgid "Kemerovskaya oblast'"
+msgstr "Kemerovskaja Provinco"
+
+#: ru_regions.py:68
+msgid "Kirovskaya oblast'"
+msgstr "Kirovskaja Provinco"
+
+#: ru_regions.py:69
+msgid "Kostromskaya oblast'"
+msgstr "Kostromskaja Provinco"
+
+#: ru_regions.py:70
+msgid "Kurganskaya oblast'"
+msgstr "Kurganskaja Provinco"
+
+#: ru_regions.py:71
+msgid "Kurskaya oblast'"
+msgstr "Kurskaja Provinco"
+
+#: ru_regions.py:72
+msgid "Leningradskaya oblast'"
+msgstr "Leningradskaja Provinco"
+
+#: ru_regions.py:73
+msgid "Lipeckaya oblast'"
+msgstr "Lipekaja Provinco"
+
+#: ru_regions.py:74
+msgid "Magadanskaya oblast'"
+msgstr "Magadanskaja Provinco"
+
+#: ru_regions.py:75
+msgid "Murmanskaya oblast'"
+msgstr "Murmanskaja Provinco"
+
+#: ru_regions.py:76
+msgid "Nizhegorodskaja oblast'"
+msgstr "Nizhegorodskaja Provinco"
+
+#: ru_regions.py:77
+msgid "Novgorodskaya oblast'"
+msgstr "Novgorodskaja Provinco"
+
+#: ru_regions.py:78
+msgid "Novosibirskaya oblast'"
+msgstr "Novosibirskaja Provinco"
+
+#: ru_regions.py:79
+msgid "Omskaya oblast'"
+msgstr "Omskaja Provinco"
+
+#: ru_regions.py:80
+msgid "Orenburgskaya oblast'"
+msgstr "Orenburgskaja Provinco"
+
+#: ru_regions.py:81
+msgid "Orlovskaya oblast'"
+msgstr "Orlovskaja Provinco"
+
+#: ru_regions.py:82
+msgid "Penzenskaya oblast'"
+msgstr "Penzenskaja Provinco"
+
+#: ru_regions.py:83
+msgid "Pskovskaya oblast'"
+msgstr "Skovskaja Provinco"
+
+#: ru_regions.py:84
+msgid "Rostovskaya oblast'"
+msgstr "Rostovskaj Provinco"
+
+#: ru_regions.py:85
+msgid "Rjazanskaya oblast'"
+msgstr "Rjazanskaja Provinco"
+
+#: ru_regions.py:86
+msgid "Samarskaya oblast'"
+msgstr "Samarskaja Provinco"
+
+#: ru_regions.py:87
+msgid "Saratovskaya oblast'"
+msgstr "Saratovskaja Provinco"
+
+#: ru_regions.py:88
+msgid "Sakhalinskaya oblast'"
+msgstr "Sakhalinskaja Provinco"
+
+#: ru_regions.py:89
+msgid "Sverdlovskaya oblast'"
+msgstr "Sverdlovskaja Provinco"
+
+#: ru_regions.py:90
+msgid "Smolenskaya oblast'"
+msgstr "Smolenskaja Provinco"
+
+#: ru_regions.py:91
+msgid "Tambovskaya oblast'"
+msgstr "Tambovskaja Provinco"
+
+#: ru_regions.py:92
+msgid "Tverskaya oblast'"
+msgstr "Tverskaja Provinco"
+
+#: ru_regions.py:93
+msgid "Tomskaya oblast'"
+msgstr "Tomskaja Provinco"
+
+#: ru_regions.py:94
+msgid "Tul'skaya oblast'"
+msgstr "Tulskaja Provinco"
+
+#: ru_regions.py:95
+msgid "Tyumenskaya oblast'"
+msgstr "Tjumenskaja Provinco"
+
+#: ru_regions.py:96
+msgid "Ul'ianovskaya oblast'"
+msgstr "Ulianovskaja Provinco"
+
+#: ru_regions.py:97
+msgid "Chelyabinskaya oblast'"
+msgstr "Ĉeljabinskaja Provinco"
+
+#: ru_regions.py:98
+msgid "Yaroslavskaya oblast'"
+msgstr "Jaroslavskaja Provinco"
+
+#: ru_regions.py:99
+msgid "Evreyskaya avtonomnaja oblast'"
+msgstr "Evrejskaja Aŭtonoma Provinco"
+
+#: ru_regions.py:100
+msgid "Neneckiy autonomnyy okrug"
+msgstr "Nenekija Aŭtonoma Areo"
+
+#: ru_regions.py:101
+msgid "Khanty-Mansiyskiy avtonomnyy okrug - Yugra"
+msgstr "Ĥanti-Mansa Aŭtonoma Areo - Yugra"
+
+#: ru_regions.py:102
+msgid "Chukotskiy avtonomnyy okrug"
+msgstr "Ĉukotka Aŭtonoma Areo"
+
+#: ru_regions.py:103
+msgid "Yamalo-Neneckiy avtonomnyy okrug"
+msgstr "Jamalo-Nenekija Aŭtonoma Areo"

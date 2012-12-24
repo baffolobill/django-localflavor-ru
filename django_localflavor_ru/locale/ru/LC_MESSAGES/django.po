@@ -1,0 +1,396 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Denis Darii <sinednx@gmail.com>, 2011.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# Michael Bashkirov <michael.bashkirov@gmail.com>, 2011.
+# Алексей Борискин <sun.void@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Алексей Борискин <sun.void@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+#: forms.py:37
+msgid "Enter a postal code in the format XXXXXX."
+msgstr "Введите почтовый индекс в формате XXXXXX."
+
+#: forms.py:50
+msgid "Enter a passport number in the format XXXX XXXXXX."
+msgstr "Введите номер и серию паспорта в формате XXXX XXXXXX."
+
+#: forms.py:63
+msgid "Enter a passport number in the format XX XXXXXXX."
+msgstr "Введите номер и серию паспорта в формате XX XXXXXXX."
+
+#: ru_regions.py:10
+msgid "Central Federal County"
+msgstr "Центральный федеральный округ"
+
+#: ru_regions.py:11
+msgid "South Federal County"
+msgstr "Южный федеральный округ"
+
+#: ru_regions.py:12
+msgid "North-West Federal County"
+msgstr "Северо-Западный федеральный округ"
+
+#: ru_regions.py:13
+msgid "Far-East Federal County"
+msgstr "Дальневосточный федеральный округ"
+
+#: ru_regions.py:14
+msgid "Siberian Federal County"
+msgstr "Сибирский федеральный округ"
+
+#: ru_regions.py:15
+msgid "Ural Federal County"
+msgstr "Уральский федеральный округ"
+
+#: ru_regions.py:16
+msgid "Privolzhsky Federal County"
+msgstr "Приволжский федеральный округ"
+
+#: ru_regions.py:17
+msgid "North-Caucasian Federal County"
+msgstr "Северо-Кавказский федеральный округ"
+
+#: ru_regions.py:21
+msgid "Moskva"
+msgstr "Москва"
+
+#: ru_regions.py:22
+msgid "Saint-Peterburg"
+msgstr "Санкт-Петербург"
+
+#: ru_regions.py:23
+msgid "Moskovskaya oblast'"
+msgstr "Московская область"
+
+#: ru_regions.py:24
+msgid "Adygeya, Respublika"
+msgstr "Адыгея, Республика"
+
+#: ru_regions.py:25
+msgid "Bashkortostan, Respublika"
+msgstr "Башкортостан, Республика"
+
+#: ru_regions.py:26
+msgid "Buryatia, Respublika"
+msgstr "Бурятия, Республика"
+
+#: ru_regions.py:27
+msgid "Altay, Respublika"
+msgstr "Алтай, Республика"
+
+#: ru_regions.py:28
+msgid "Dagestan, Respublika"
+msgstr "Дагестан, Республика"
+
+#: ru_regions.py:29
+msgid "Ingushskaya Respublika"
+msgstr "Ингушская Республика"
+
+#: ru_regions.py:30
+msgid "Kabardino-Balkarskaya Respublika"
+msgstr "Кабардино-Балкарская Республика"
+
+#: ru_regions.py:31
+msgid "Kalmykia, Respublika"
+msgstr "Республика Калмыкия"
+
+#: ru_regions.py:32
+msgid "Karachaevo-Cherkesskaya Respublika"
+msgstr "Карачаево-Черкесская Республика"
+
+#: ru_regions.py:33
+msgid "Karelia, Respublika"
+msgstr "Карелия, Республика"
+
+#: ru_regions.py:34
+msgid "Komi, Respublika"
+msgstr "Коми, Республика"
+
+#: ru_regions.py:35
+msgid "Mariy Ehl, Respublika"
+msgstr "Марий Эл, Республика"
+
+#: ru_regions.py:36
+msgid "Mordovia, Respublika"
+msgstr "Мордовия, Республика"
+
+#: ru_regions.py:37
+msgid "Sakha, Respublika (Yakutiya)"
+msgstr "Саха, Республика (Якутия)"
+
+#: ru_regions.py:38
+msgid "Severnaya Osetia, Respublika (Alania)"
+msgstr "Северная Осетия, Республика (Алания)"
+
+#: ru_regions.py:39
+msgid "Tatarstan, Respublika"
+msgstr "Татарстан, Республика"
+
+#: ru_regions.py:40
+msgid "Tyva, Respublika (Tuva)"
+msgstr "Тыва, Республика (Тува)"
+
+#: ru_regions.py:41
+msgid "Udmurtskaya Respublika"
+msgstr "Удмуртская Республика"
+
+#: ru_regions.py:42
+msgid "Khakassiya, Respublika"
+msgstr "Хакасия, Республика"
+
+#: ru_regions.py:43
+msgid "Chechenskaya Respublika"
+msgstr "Чеченская Республика"
+
+#: ru_regions.py:44
+msgid "Chuvashskaya Respublika"
+msgstr "Чувашская Республика"
+
+#: ru_regions.py:45
+msgid "Altayskiy Kray"
+msgstr "Алтайский Край"
+
+#: ru_regions.py:46
+msgid "Zabaykalskiy Kray"
+msgstr "Забайкальский Край"
+
+#: ru_regions.py:47
+msgid "Kamchatskiy Kray"
+msgstr "Камчатский Край"
+
+#: ru_regions.py:48
+msgid "Krasnodarskiy Kray"
+msgstr "Краснодарский Край"
+
+#: ru_regions.py:49
+msgid "Krasnoyarskiy Kray"
+msgstr "Красноярский Край"
+
+#: ru_regions.py:50
+msgid "Permskiy Kray"
+msgstr "Пермский Край"
+
+#: ru_regions.py:51
+msgid "Primorskiy Kray"
+msgstr "Приморский Край"
+
+#: ru_regions.py:52
+msgid "Stavropol'siyy Kray"
+msgstr "Ставропольский Край"
+
+#: ru_regions.py:53
+msgid "Khabarovskiy Kray"
+msgstr "Хабаровский Край"
+
+#: ru_regions.py:54
+msgid "Amurskaya oblast'"
+msgstr "Амурская область"
+
+#: ru_regions.py:55
+msgid "Arkhangel'skaya oblast'"
+msgstr "Архангельская область"
+
+#: ru_regions.py:56
+msgid "Astrakhanskaya oblast'"
+msgstr "Астраханская область"
+
+#: ru_regions.py:57
+msgid "Belgorodskaya oblast'"
+msgstr "Белгородская область"
+
+#: ru_regions.py:58
+msgid "Bryanskaya oblast'"
+msgstr "Брянская область"
+
+#: ru_regions.py:59
+msgid "Vladimirskaya oblast'"
+msgstr "Владимирская область"
+
+#: ru_regions.py:60
+msgid "Volgogradskaya oblast'"
+msgstr "Волгоградская область"
+
+#: ru_regions.py:61
+msgid "Vologodskaya oblast'"
+msgstr "Вологодская область"
+
+#: ru_regions.py:62
+msgid "Voronezhskaya oblast'"
+msgstr "Воронежская область"
+
+#: ru_regions.py:63
+msgid "Ivanovskaya oblast'"
+msgstr "Ивановская область"
+
+#: ru_regions.py:64
+msgid "Irkutskaya oblast'"
+msgstr "Иркутская область"
+
+#: ru_regions.py:65
+msgid "Kaliningradskaya oblast'"
+msgstr "Калининградская область"
+
+#: ru_regions.py:66
+msgid "Kaluzhskaya oblast'"
+msgstr "Калужская область"
+
+#: ru_regions.py:67
+msgid "Kemerovskaya oblast'"
+msgstr "Кемеровская область"
+
+#: ru_regions.py:68
+msgid "Kirovskaya oblast'"
+msgstr "Кировская область"
+
+#: ru_regions.py:69
+msgid "Kostromskaya oblast'"
+msgstr "Костромская область"
+
+#: ru_regions.py:70
+msgid "Kurganskaya oblast'"
+msgstr "Курганская область"
+
+#: ru_regions.py:71
+msgid "Kurskaya oblast'"
+msgstr "Курская область"
+
+#: ru_regions.py:72
+msgid "Leningradskaya oblast'"
+msgstr "Ленинградская область"
+
+#: ru_regions.py:73
+msgid "Lipeckaya oblast'"
+msgstr "Липецкая область"
+
+#: ru_regions.py:74
+msgid "Magadanskaya oblast'"
+msgstr "Магаданская область"
+
+#: ru_regions.py:75
+msgid "Murmanskaya oblast'"
+msgstr "Мурманская область"
+
+#: ru_regions.py:76
+msgid "Nizhegorodskaja oblast'"
+msgstr "Нижегородская область"
+
+#: ru_regions.py:77
+msgid "Novgorodskaya oblast'"
+msgstr "Новгородская область"
+
+#: ru_regions.py:78
+msgid "Novosibirskaya oblast'"
+msgstr "Новосибирская область"
+
+#: ru_regions.py:79
+msgid "Omskaya oblast'"
+msgstr "Омская область"
+
+#: ru_regions.py:80
+msgid "Orenburgskaya oblast'"
+msgstr "Оренбургская область"
+
+#: ru_regions.py:81
+msgid "Orlovskaya oblast'"
+msgstr "Орловская область"
+
+#: ru_regions.py:82
+msgid "Penzenskaya oblast'"
+msgstr "Пензенская область"
+
+#: ru_regions.py:83
+msgid "Pskovskaya oblast'"
+msgstr "Псковская область"
+
+#: ru_regions.py:84
+msgid "Rostovskaya oblast'"
+msgstr "Ростовская область"
+
+#: ru_regions.py:85
+msgid "Rjazanskaya oblast'"
+msgstr "Рязанская область"
+
+#: ru_regions.py:86
+msgid "Samarskaya oblast'"
+msgstr "Самарская область"
+
+#: ru_regions.py:87
+msgid "Saratovskaya oblast'"
+msgstr "Саратовская область"
+
+#: ru_regions.py:88
+msgid "Sakhalinskaya oblast'"
+msgstr "Сахалинская область"
+
+#: ru_regions.py:89
+msgid "Sverdlovskaya oblast'"
+msgstr "Свердловская область"
+
+#: ru_regions.py:90
+msgid "Smolenskaya oblast'"
+msgstr "Смоленская область"
+
+#: ru_regions.py:91
+msgid "Tambovskaya oblast'"
+msgstr "Тамбовская область"
+
+#: ru_regions.py:92
+msgid "Tverskaya oblast'"
+msgstr "Тверская область"
+
+#: ru_regions.py:93
+msgid "Tomskaya oblast'"
+msgstr "Томская область"
+
+#: ru_regions.py:94
+msgid "Tul'skaya oblast'"
+msgstr "Тульская область"
+
+#: ru_regions.py:95
+msgid "Tyumenskaya oblast'"
+msgstr "Тюменская область"
+
+#: ru_regions.py:96
+msgid "Ul'ianovskaya oblast'"
+msgstr "Ульяновская область"
+
+#: ru_regions.py:97
+msgid "Chelyabinskaya oblast'"
+msgstr "Челябинская область"
+
+#: ru_regions.py:98
+msgid "Yaroslavskaya oblast'"
+msgstr "Ярославская область"
+
+#: ru_regions.py:99
+msgid "Evreyskaya avtonomnaja oblast'"
+msgstr "Еврейская автономная область"
+
+#: ru_regions.py:100
+msgid "Neneckiy autonomnyy okrug"
+msgstr "Ненецкий автономный округ"
+
+#: ru_regions.py:101
+msgid "Khanty-Mansiyskiy avtonomnyy okrug - Yugra"
+msgstr "Ханты-Мансийский автономный округ — Югра "
+
+#: ru_regions.py:102
+msgid "Chukotskiy avtonomnyy okrug"
+msgstr "Чукотский автономный округ"
+
+#: ru_regions.py:103
+msgid "Yamalo-Neneckiy avtonomnyy okrug"
+msgstr "Ямало-Ненецкий автономный округ"

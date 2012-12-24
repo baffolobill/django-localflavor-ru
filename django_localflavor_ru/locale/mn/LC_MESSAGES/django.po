@@ -1,0 +1,403 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# badka <badral214@gmail.com>, 2011.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+#   <jargalanch@gmail.com>, 2012.
+# miigaa ... <b.myagmardorj@gmail.com>, 2012.
+#   <mnts26@gmail.com>, 2011.
+# Tsolmon <mnts26@gmail.com>, 2011.
+#   <zolzaya.erdenebaatar@gmail.com>, 2011.
+# Анхбаяр Анхаа <l.ankhbayar@gmail.com>, 2011, 2012.
+# Баясгалан Цэвлээ <bayasaa_7672@yahoo.com>, 2011, 2012.
+# Ганзориг БП <ganzo.bp@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Анхбаяр Анхаа <l.ankhbayar@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: forms.py:37
+msgid "Enter a postal code in the format XXXXXX."
+msgstr "XXXXXX форматаар шуудангын кодыг оруулна уу."
+
+#: forms.py:50
+msgid "Enter a passport number in the format XXXX XXXXXX."
+msgstr "XXXX XXXXXX форматаар паспортын дугаарыг оруулна уу. "
+
+#: forms.py:63
+msgid "Enter a passport number in the format XX XXXXXXX."
+msgstr "XX XXXXXXX форматаар паспортын дугаарыг оруулна уу. "
+
+#: ru_regions.py:10
+msgid "Central Federal County"
+msgstr "Төв Холбооны Муж"
+
+#: ru_regions.py:11
+msgid "South Federal County"
+msgstr "Өмнөд Холбооны Муж"
+
+#: ru_regions.py:12
+msgid "North-West Federal County"
+msgstr "Баруун-Хойд Холбооны Муж"
+
+#: ru_regions.py:13
+msgid "Far-East Federal County"
+msgstr "Зүүн Холбооны Муж"
+
+#: ru_regions.py:14
+msgid "Siberian Federal County"
+msgstr "Сибирын Холбооны Муж"
+
+#: ru_regions.py:15
+msgid "Ural Federal County"
+msgstr "Уралын Холбооны Муж"
+
+#: ru_regions.py:16
+msgid "Privolzhsky Federal County"
+msgstr "Привольский Холбооны Муж"
+
+#: ru_regions.py:17
+msgid "North-Caucasian Federal County"
+msgstr "Хойд-Кавказын Холбооны Муж"
+
+#: ru_regions.py:21
+msgid "Moskva"
+msgstr "Москва"
+
+#: ru_regions.py:22
+msgid "Saint-Peterburg"
+msgstr "Сант-Петербург"
+
+#: ru_regions.py:23
+msgid "Moskovskaya oblast'"
+msgstr "Москвагийн хүрээ"
+
+#: ru_regions.py:24
+msgid "Adygeya, Respublika"
+msgstr "бүгд найрамдах Адыгея улс"
+
+#: ru_regions.py:25
+msgid "Bashkortostan, Respublika"
+msgstr "бүгд найрамдах Башкортостан улс"
+
+#: ru_regions.py:26
+msgid "Buryatia, Respublika"
+msgstr "бүгд найрамдах Бурят улс"
+
+#: ru_regions.py:27
+msgid "Altay, Respublika"
+msgstr "бүгд найрамдах Алтай улс"
+
+#: ru_regions.py:28
+msgid "Dagestan, Respublika"
+msgstr "бүгд найрамдах Дагесиан улс"
+
+#: ru_regions.py:29
+msgid "Ingushskaya Respublika"
+msgstr "Бүгд найрамдах Ингүш Улс"
+
+#: ru_regions.py:30
+msgid "Kabardino-Balkarskaya Respublika"
+msgstr "Бүгд найрамдах Кабардино-Балкар Улс"
+
+#: ru_regions.py:31
+msgid "Kalmykia, Respublika"
+msgstr "Бүгд найрамдах Халмиг Улс"
+
+#: ru_regions.py:32
+msgid "Karachaevo-Cherkesskaya Respublika"
+msgstr "Бүгд найрамдах Халмиг Улс"
+
+#: ru_regions.py:33
+msgid "Karelia, Respublika"
+msgstr "Бүгд найрамдах Карачаево-Черкес Улс"
+
+#: ru_regions.py:34
+msgid "Komi, Respublika"
+msgstr "Бүгд найрамдах Коми Улс"
+
+#: ru_regions.py:35
+msgid "Mariy Ehl, Respublika"
+msgstr "Бүгд найрамдах Марий Эл Улс"
+
+#: ru_regions.py:36
+msgid "Mordovia, Respublika"
+msgstr "Бүгд найрамдах Мордов Улс"
+
+#: ru_regions.py:37
+msgid "Sakha, Respublika (Yakutiya)"
+msgstr "Бүгд найрамдах Саха Улс"
+
+#: ru_regions.py:38
+msgid "Severnaya Osetia, Respublika (Alania)"
+msgstr "Бүгд найрамдах Коми Улс"
+
+#: ru_regions.py:39
+msgid "Tatarstan, Respublika"
+msgstr "Бүгд найрамдах Татарстан Улс"
+
+#: ru_regions.py:40
+msgid "Tyva, Respublika (Tuva)"
+msgstr "Бүгд найрамдах Тува Улс"
+
+#: ru_regions.py:41
+msgid "Udmurtskaya Respublika"
+msgstr "Бүгд найрамдах Удмурт Улс"
+
+#: ru_regions.py:42
+msgid "Khakassiya, Respublika"
+msgstr "Бүгд найрамдах Хакаш Улс"
+
+#: ru_regions.py:43
+msgid "Chechenskaya Respublika"
+msgstr "Бүгд найрамдах Чечен Улс"
+
+#: ru_regions.py:44
+msgid "Chuvashskaya Respublika"
+msgstr "Бүгд найрамдах Чуваш Улс"
+
+#: ru_regions.py:45
+msgid "Altayskiy Kray"
+msgstr "Алтайн хязгаар"
+
+#: ru_regions.py:46
+msgid "Zabaykalskiy Kray"
+msgstr "Забайкалийн хязгаар"
+
+#: ru_regions.py:47
+msgid "Kamchatskiy Kray"
+msgstr "Камчатскийн хязгаар"
+
+#: ru_regions.py:48
+msgid "Krasnodarskiy Kray"
+msgstr "Краснодарийн хязгаар"
+
+#: ru_regions.py:49
+msgid "Krasnoyarskiy Kray"
+msgstr "Красноярскийн хязгаар"
+
+#: ru_regions.py:50
+msgid "Permskiy Kray"
+msgstr "Пермийн хязгаар"
+
+#: ru_regions.py:51
+msgid "Primorskiy Kray"
+msgstr "Приморийн хязгаар"
+
+#: ru_regions.py:52
+msgid "Stavropol'siyy Kray"
+msgstr "Ставрополийн хязгаар"
+
+#: ru_regions.py:53
+msgid "Khabarovskiy Kray"
+msgstr "Хабаровскийн хязгаар"
+
+#: ru_regions.py:54
+msgid "Amurskaya oblast'"
+msgstr ""
+"Утасны дугаар нь 02X-8X эсвэл 03X-7X эсвэл 04X-6X форматтай байх хэрэгтэй."
+
+#: ru_regions.py:55
+msgid "Arkhangel'skaya oblast'"
+msgstr "Архангельскийн хүрээ"
+
+#: ru_regions.py:56
+msgid "Astrakhanskaya oblast'"
+msgstr "Астраханская бүс нутаг"
+
+#: ru_regions.py:57
+msgid "Belgorodskaya oblast'"
+msgstr "Белгородын бүс нутаг"
+
+#: ru_regions.py:58
+msgid "Bryanskaya oblast'"
+msgstr "Биряны бүс нутаг"
+
+#: ru_regions.py:59
+msgid "Vladimirskaya oblast'"
+msgstr "Владимирын бүс нутаг"
+
+#: ru_regions.py:60
+msgid "Volgogradskaya oblast'"
+msgstr "Волгоградыг бүс нутаг"
+
+#: ru_regions.py:61
+msgid "Vologodskaya oblast'"
+msgstr "Вологодын бүс нутаг"
+
+#: ru_regions.py:62
+msgid "Voronezhskaya oblast'"
+msgstr "Воронежын бүс нутаг"
+
+#: ru_regions.py:63
+msgid "Ivanovskaya oblast'"
+msgstr "Ивановын бүс нутаг"
+
+#: ru_regions.py:64
+msgid "Irkutskaya oblast'"
+msgstr "Иркутскийн бүс нутаг"
+
+#: ru_regions.py:65
+msgid "Kaliningradskaya oblast'"
+msgstr "Калинградын бүс нутаг"
+
+#: ru_regions.py:66
+msgid "Kaluzhskaya oblast'"
+msgstr "Калужын бүс нутаг"
+
+#: ru_regions.py:67
+msgid "Kemerovskaya oblast'"
+msgstr "Кемеровская муж"
+
+#: ru_regions.py:68
+msgid "Kirovskaya oblast'"
+msgstr "Кировская муж"
+
+#: ru_regions.py:69
+msgid "Kostromskaya oblast'"
+msgstr "Костромская муж"
+
+#: ru_regions.py:70
+msgid "Kurganskaya oblast'"
+msgstr "Курганская муж"
+
+#: ru_regions.py:71
+msgid "Kurskaya oblast'"
+msgstr "Курсикын бүс нутаг"
+
+#: ru_regions.py:72
+msgid "Leningradskaya oblast'"
+msgstr "Ленинградын бүс нутаг"
+
+#: ru_regions.py:73
+msgid "Lipeckaya oblast'"
+msgstr "Липецкая муж"
+
+#: ru_regions.py:74
+msgid "Magadanskaya oblast'"
+msgstr "Магаданская муж"
+
+#: ru_regions.py:75
+msgid "Murmanskaya oblast'"
+msgstr "Мурманская муж"
+
+#: ru_regions.py:76
+msgid "Nizhegorodskaja oblast'"
+msgstr "Нижегородской муж"
+
+#: ru_regions.py:77
+msgid "Novgorodskaya oblast'"
+msgstr "Новгородская муж"
+
+#: ru_regions.py:78
+msgid "Novosibirskaya oblast'"
+msgstr "Новосибирская муж"
+
+#: ru_regions.py:79
+msgid "Omskaya oblast'"
+msgstr "Омская муж"
+
+#: ru_regions.py:80
+msgid "Orenburgskaya oblast'"
+msgstr "Оренбургская муж"
+
+#: ru_regions.py:81
+msgid "Orlovskaya oblast'"
+msgstr "Орловская муж"
+
+#: ru_regions.py:82
+msgid "Penzenskaya oblast'"
+msgstr "Пензенская муж"
+
+#: ru_regions.py:83
+msgid "Pskovskaya oblast'"
+msgstr "Псковская муж"
+
+#: ru_regions.py:84
+msgid "Rostovskaya oblast'"
+msgstr "Ростовская муж"
+
+#: ru_regions.py:85
+msgid "Rjazanskaya oblast'"
+msgstr "Рязанская муж"
+
+#: ru_regions.py:86
+msgid "Samarskaya oblast'"
+msgstr "Самарская муж"
+
+#: ru_regions.py:87
+msgid "Saratovskaya oblast'"
+msgstr "Саратовская муж"
+
+#: ru_regions.py:88
+msgid "Sakhalinskaya oblast'"
+msgstr "Сахалинская муж"
+
+#: ru_regions.py:89
+msgid "Sverdlovskaya oblast'"
+msgstr "Свердловской муж"
+
+#: ru_regions.py:90
+msgid "Smolenskaya oblast'"
+msgstr "Смоленская муж"
+
+#: ru_regions.py:91
+msgid "Tambovskaya oblast'"
+msgstr "Тамбовская муж"
+
+#: ru_regions.py:92
+msgid "Tverskaya oblast'"
+msgstr "Тверская муж"
+
+#: ru_regions.py:93
+msgid "Tomskaya oblast'"
+msgstr "Томская муж"
+
+#: ru_regions.py:94
+msgid "Tul'skaya oblast'"
+msgstr "Тульскийн бүс нутаг"
+
+#: ru_regions.py:95
+msgid "Tyumenskaya oblast'"
+msgstr "Тюменская муж"
+
+#: ru_regions.py:96
+msgid "Ul'ianovskaya oblast'"
+msgstr "Ульяновская муж"
+
+#: ru_regions.py:97
+msgid "Chelyabinskaya oblast'"
+msgstr "Челябинская муж"
+
+#: ru_regions.py:98
+msgid "Yaroslavskaya oblast'"
+msgstr "Челябинская муж"
+
+#: ru_regions.py:99
+msgid "Evreyskaya avtonomnaja oblast'"
+msgstr "Еврейская автономная муж"
+
+#: ru_regions.py:100
+msgid "Neneckiy autonomnyy okrug"
+msgstr "Ненецкий автономии дүүрэг"
+
+#: ru_regions.py:101
+msgid "Khanty-Mansiyskiy avtonomnyy okrug - Yugra"
+msgstr "Ханты-Мансийский автономный округ - Югра"
+
+#: ru_regions.py:102
+msgid "Chukotskiy avtonomnyy okrug"
+msgstr "Чукотский автономный дүүрэг"
+
+#: ru_regions.py:103
+msgid "Yamalo-Neneckiy avtonomnyy okrug"
+msgstr "Ямало-Neneckiy автономный дүүрэг"

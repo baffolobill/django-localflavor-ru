@@ -1,0 +1,395 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# chandankumar(ciypro) <chandankumar.093047@gmail.com>, 2012.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# Sandeep Satavlekar <sandysat@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Chandan kumar <chandankumar.093047@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: forms.py:37
+msgid "Enter a postal code in the format XXXXXX."
+msgstr "XXXXXX प्रारूप में डाक कोड दर्ज करें."
+
+#: forms.py:50
+msgid "Enter a passport number in the format XXXX XXXXXX."
+msgstr "XXXX XXXXXX प्रारूप में पासपोर्ट संख्या दर्ज करें."
+
+#: forms.py:63
+msgid "Enter a passport number in the format XX XXXXXXX."
+msgstr "XX xxxxxxx प्रारूप में पासपोर्ट संख्या दर्ज करें."
+
+#: ru_regions.py:10
+msgid "Central Federal County"
+msgstr "केन्द्रीय संघीय काउंटी"
+
+#: ru_regions.py:11
+msgid "South Federal County"
+msgstr "दक्षिण संघीय काउंटी"
+
+#: ru_regions.py:12
+msgid "North-West Federal County"
+msgstr "उत्तर-पश्चिम संघीय काउंटी"
+
+#: ru_regions.py:13
+msgid "Far-East Federal County"
+msgstr "सुदूर-पूर्व संघीय काउंटी"
+
+#: ru_regions.py:14
+msgid "Siberian Federal County"
+msgstr "साइबेरियाई संघीय काउंटी"
+
+#: ru_regions.py:15
+msgid "Ural Federal County"
+msgstr "यूराल संघीय काउंटी"
+
+#: ru_regions.py:16
+msgid "Privolzhsky Federal County"
+msgstr "प्रिवोल्जह्स्क्य संघीय काउंटी"
+
+#: ru_regions.py:17
+msgid "North-Caucasian Federal County"
+msgstr "उत्तर-कोकेशियान संघीय काउंटी"
+
+#: ru_regions.py:21
+msgid "Moskva"
+msgstr "मॉस्क्वा"
+
+#: ru_regions.py:22
+msgid "Saint-Peterburg"
+msgstr "सेंट-पीटर्सबर्ग"
+
+#: ru_regions.py:23
+msgid "Moskovskaya oblast'"
+msgstr "मोस्कोव्स्काया ओब्लास्ट"
+
+#: ru_regions.py:24
+msgid "Adygeya, Respublika"
+msgstr "अद्य्गेया, रेस्पुब्लिका "
+
+#: ru_regions.py:25
+msgid "Bashkortostan, Respublika"
+msgstr "बश्कोर्तोस्तान, रेस्पुब्लिका "
+
+#: ru_regions.py:26
+msgid "Buryatia, Respublika"
+msgstr " बुर्यटिया, रेस्पुब्लिका "
+
+#: ru_regions.py:27
+msgid "Altay, Respublika"
+msgstr "अल्ती, रेस्पुब्लिका "
+
+#: ru_regions.py:28
+msgid "Dagestan, Respublika"
+msgstr "दागेस्तान, रेस्पुब्लिका "
+
+#: ru_regions.py:29
+msgid "Ingushskaya Respublika"
+msgstr "इन्गुश्स्काया  रेस्पुब्लिका "
+
+#: ru_regions.py:30
+msgid "Kabardino-Balkarskaya Respublika"
+msgstr "कबर्दिनो-बल्कार्स्काया  रेस्पुब्लिका "
+
+#: ru_regions.py:31
+msgid "Kalmykia, Respublika"
+msgstr "कल्म्य्किया , रेस्पुब्लिका "
+
+#: ru_regions.py:32
+msgid "Karachaevo-Cherkesskaya Respublika"
+msgstr "कराचेवो-चेर्केस्स्काया रेस्पुब्लिका "
+
+#: ru_regions.py:33
+msgid "Karelia, Respublika"
+msgstr "करेलिया, रेस्पुब्लिका "
+
+#: ru_regions.py:34
+msgid "Komi, Respublika"
+msgstr "कोमी, रेस्पुब्लिका "
+
+#: ru_regions.py:35
+msgid "Mariy Ehl, Respublika"
+msgstr "मरीय एहल , रेस्पुब्लिका "
+
+#: ru_regions.py:36
+msgid "Mordovia, Respublika"
+msgstr "मोर्दोविया, रेस्पुब्लिका "
+
+#: ru_regions.py:37
+msgid "Sakha, Respublika (Yakutiya)"
+msgstr "सखा, रेस्पुब्लिका (याकुतिया )"
+
+#: ru_regions.py:38
+msgid "Severnaya Osetia, Respublika (Alania)"
+msgstr "सेवेर्नाया ओसेटिया, रेस्पुब्लिका (अलानिया)"
+
+#: ru_regions.py:39
+msgid "Tatarstan, Respublika"
+msgstr "तातार्स्तान, रेस्पुब्लिका "
+
+#: ru_regions.py:40
+msgid "Tyva, Respublika (Tuva)"
+msgstr "त्य्वा, रेस्पुब्लिका (तुवा)"
+
+#: ru_regions.py:41
+msgid "Udmurtskaya Respublika"
+msgstr "उद्मुर्त्स्काया रेस्पुब्लिका "
+
+#: ru_regions.py:42
+msgid "Khakassiya, Respublika"
+msgstr "खाकस्सिया, रेस्पुब्लिका "
+
+#: ru_regions.py:43
+msgid "Chechenskaya Respublika"
+msgstr "चेचेंस्काया रेस्पुब्लिका"
+
+#: ru_regions.py:44
+msgid "Chuvashskaya Respublika"
+msgstr "चुवाश्स्काया रेस्पुब्लिका "
+
+#: ru_regions.py:45
+msgid "Altayskiy Kray"
+msgstr "अल्ताय्स्कीय क्रय  "
+
+#: ru_regions.py:46
+msgid "Zabaykalskiy Kray"
+msgstr "ज़बय्कल्स्कीय  क्रय "
+
+#: ru_regions.py:47
+msgid "Kamchatskiy Kray"
+msgstr "कम्चात्स्कीय  क्रय "
+
+#: ru_regions.py:48
+msgid "Krasnodarskiy Kray"
+msgstr "क्रस्नोदार्स्कीय  क्रय "
+
+#: ru_regions.py:49
+msgid "Krasnoyarskiy Kray"
+msgstr "क्रस्नोयार्स्कीय  क्रय "
+
+#: ru_regions.py:50
+msgid "Permskiy Kray"
+msgstr "पेर्म्स्कीय  क्रय "
+
+#: ru_regions.py:51
+msgid "Primorskiy Kray"
+msgstr "प्रिमोर्स्कीय  क्रय "
+
+#: ru_regions.py:52
+msgid "Stavropol'siyy Kray"
+msgstr "स्टाव्रोपोल'सिय्य  क्रय "
+
+#: ru_regions.py:53
+msgid "Khabarovskiy Kray"
+msgstr "खबरोव्स्कीय  क्रय "
+
+#: ru_regions.py:54
+msgid "Amurskaya oblast'"
+msgstr "अमुर्स्काया ओब्लास्ट' "
+
+#: ru_regions.py:55
+msgid "Arkhangel'skaya oblast'"
+msgstr "अर्खंगेल'स्काय  ओब्लास्ट'"
+
+#: ru_regions.py:56
+msgid "Astrakhanskaya oblast'"
+msgstr "अस्त्रखान्स्काया  ओब्लास्ट'"
+
+#: ru_regions.py:57
+msgid "Belgorodskaya oblast'"
+msgstr "बेल्गोरोद्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:58
+msgid "Bryanskaya oblast'"
+msgstr "ब्र्यांस्काया ओब्लास्ट '"
+
+#: ru_regions.py:59
+msgid "Vladimirskaya oblast'"
+msgstr "व्लादिमिर्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:60
+msgid "Volgogradskaya oblast'"
+msgstr "वोल्गोग्रद्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:61
+msgid "Vologodskaya oblast'"
+msgstr "वोलोगोद्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:62
+msgid "Voronezhskaya oblast'"
+msgstr "वोरोनेज्ह्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:63
+msgid "Ivanovskaya oblast'"
+msgstr "इवानोव्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:64
+msgid "Irkutskaya oblast'"
+msgstr "इर्कुत्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:65
+msgid "Kaliningradskaya oblast'"
+msgstr "कलिनिन्ग्रद्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:66
+msgid "Kaluzhskaya oblast'"
+msgstr "कलुज्ह्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:67
+msgid "Kemerovskaya oblast'"
+msgstr "केमेरोव्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:68
+msgid "Kirovskaya oblast'"
+msgstr "किरोव्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:69
+msgid "Kostromskaya oblast'"
+msgstr "कोस्त्रोम्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:70
+msgid "Kurganskaya oblast'"
+msgstr "कुर्गंस्काया ओब्लास्ट '"
+
+#: ru_regions.py:71
+msgid "Kurskaya oblast'"
+msgstr "कुर्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:72
+msgid "Leningradskaya oblast'"
+msgstr "लेनिन्ग्रद्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:73
+msgid "Lipeckaya oblast'"
+msgstr "लिपेच्काया ओब्लास्ट'"
+
+#: ru_regions.py:74
+msgid "Magadanskaya oblast'"
+msgstr "मगदंस्काया ओब्लास्ट'"
+
+#: ru_regions.py:75
+msgid "Murmanskaya oblast'"
+msgstr "मुर्मंस्काया ओब्लास्ट '"
+
+#: ru_regions.py:76
+msgid "Nizhegorodskaja oblast'"
+msgstr "निज्हेगोरोद्स्काजा ओब्लास्ट'"
+
+#: ru_regions.py:77
+msgid "Novgorodskaya oblast'"
+msgstr "नोव्गोरोद्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:78
+msgid "Novosibirskaya oblast'"
+msgstr "नोवोसिबिर्स्काया ओब्लास्ट '"
+
+#: ru_regions.py:79
+msgid "Omskaya oblast'"
+msgstr "ओम्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:80
+msgid "Orenburgskaya oblast'"
+msgstr "ओरेंबुर्ग्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:81
+msgid "Orlovskaya oblast'"
+msgstr "ओर्लोव्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:82
+msgid "Penzenskaya oblast'"
+msgstr "पेंज़ेन्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:83
+msgid "Pskovskaya oblast'"
+msgstr "प्स्कोव्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:84
+msgid "Rostovskaya oblast'"
+msgstr "रोस्तोव्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:85
+msgid "Rjazanskaya oblast'"
+msgstr "र्जज़न्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:86
+msgid "Samarskaya oblast'"
+msgstr "समर्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:87
+msgid "Saratovskaya oblast'"
+msgstr "सरतोव्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:88
+msgid "Sakhalinskaya oblast'"
+msgstr "सखालिंस्काया ओब्लास्ट'"
+
+#: ru_regions.py:89
+msgid "Sverdlovskaya oblast'"
+msgstr "स्वेर्द्लोव्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:90
+msgid "Smolenskaya oblast'"
+msgstr "स्मोलेंस्काया ओब्लास्ट'"
+
+#: ru_regions.py:91
+msgid "Tambovskaya oblast'"
+msgstr "तम्बोव्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:92
+msgid "Tverskaya oblast'"
+msgstr "त्वेर्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:93
+msgid "Tomskaya oblast'"
+msgstr "तोम्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:94
+msgid "Tul'skaya oblast'"
+msgstr "टूल'स्काय  ओब्लास्ट'"
+
+#: ru_regions.py:95
+msgid "Tyumenskaya oblast'"
+msgstr "त्युमेंस्काया ओब्लास्ट'"
+
+#: ru_regions.py:96
+msgid "Ul'ianovskaya oblast'"
+msgstr "उल'इअनोव्स्कय  ओब्लास्ट '"
+
+#: ru_regions.py:97
+msgid "Chelyabinskaya oblast'"
+msgstr "चेल्याबिन्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:98
+msgid "Yaroslavskaya oblast'"
+msgstr "यारोस्लाव्स्काया ओब्लास्ट'"
+
+#: ru_regions.py:99
+msgid "Evreyskaya avtonomnaja oblast'"
+msgstr "एव्रेय्स्काया अव्तोनोम्नाजा  ओब्लास्ट'"
+
+#: ru_regions.py:100
+msgid "Neneckiy autonomnyy okrug"
+msgstr "नेनेच्कीय औतोनोम्न्य्य ओकृग "
+
+#: ru_regions.py:101
+msgid "Khanty-Mansiyskiy avtonomnyy okrug - Yugra"
+msgstr "खांटी-मंसिय्स्कीय अव्तोनोम्न्य्य ओकृग - युगरा "
+
+#: ru_regions.py:102
+msgid "Chukotskiy avtonomnyy okrug"
+msgstr "चुकोत्स्कीय अव्तोनोम्न्य्य ओकृग "
+
+#: ru_regions.py:103
+msgid "Yamalo-Neneckiy avtonomnyy okrug"
+msgstr "यमलो-नेनेच्कीय  अव्तोनोम्न्य्य ओकृग "
